@@ -1,0 +1,3 @@
+ccxt==4.4.5  # For exchange/prediction market API simulation (Kalshi/Polymarket placeholders)
+python-dotenv==1.0.1  # For loading .env config securely
+kalshi-python
