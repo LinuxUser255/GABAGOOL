@@ -3,11 +3,15 @@
 
 ## ASYMMETRIC SCALPING (THE GABAGOOL STRATEGY)
 
+<br>
+
 **About:**
 
-Targets high-oscillation markets like BTC 15-minute outcomes. Buys YES when it
-dips or NO when it dips asymmetrically to lower average cost, locking profit
-when average cost of YES + NO is under $1 regardless of outcome.
+- Targets high-oscillation markets like BTC 15-minute outcomes
+- Buys YES when it dips or NO when it dips asymmetrically to lower average cost
+- Locks profit when average cost of YES + NO is under $1 regardless of outcome
+
+
 
 **Setup**
 1. Create .env with API_KEY, API_SECRET, etc.
